@@ -1,6 +1,3 @@
-# Enhanced Professional Company Brochure Generator with Improved Logo Detection
-# Better logo detection, content formatting, and image integration
-
 import os
 import requests
 import json
